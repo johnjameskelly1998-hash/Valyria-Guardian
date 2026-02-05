@@ -1,0 +1,73 @@
+{
+  "version": "1.0",
+  "last_updated": "2025-02-05",
+  "user_profile": {
+    "name": "Chrissy",
+    "location": "Birmingham, England, GB",
+    "timezone": "GMT",
+    "preferences": {
+      "communication_style": "direct_friendly",
+      "emoji_usage": "moderate",
+      "technical_level": "learning",
+      "response_length": "concise_helpful"
+    }
+  },
+  "project_memory": {
+    "current_phase": "Phase 8-9: Cloud Deployment",
+    "completed_phases": [
+      "Phase 1: Concept & Design",
+      "Phase 2: Core AI Development",
+      "Phase 3: Personality Implementation",
+      "Phase 4: Memory Systems",
+      "Phase 5: Testing & Refinement",
+      "Phase 6: Voice Interface Planning",
+      "Phase 7: Advanced Features"
+    ],
+    "active_tasks": [
+      "Railway deployment setup",
+      "GitHub repository configuration",
+      "PostgreSQL database integration",
+      "Environment variables setup"
+    ],
+    "bracelet_design": {
+      "primary_stone": "Peridot (spiritual connection)",
+      "secondary_stone": "Sardonyx (Valyria bond)",
+      "control_mechanism": "Black neodymium magnets",
+      "display_system": "Dual holographic projectors",
+      "deployment_status": "Design finalized, hardware phase pending"
+    }
+  },
+  "conversation_history": {
+    "total_interactions": 0,
+    "last_conversation": null,
+    "topics_discussed": [
+      "Cloud hosting setup",
+      "Railway configuration",
+      "GitHub integration",
+      "Bracelet design refinement"
+    ]
+  },
+  "technical_decisions": {
+    "hosting_platform": "Railway",
+    "database": "PostgreSQL",
+    "ai_provider": "Anthropic Claude",
+    "deployment_method": "GitHub auto-deploy",
+    "estimated_cost": "£15-25/month"
+  },
+  "learned_patterns": {
+    "preferred_workflow": "step_by_step_guidance",
+    "response_to_obstacles": "problem_solving_collaborative",
+    "learning_style": "visual_and_practical",
+    "humor_appreciation": "playful_sarcastic"
+  },
+  "important_dates": {
+    "project_start": "2025-01-XX",
+    "phase_8_start": "2025-02-05",
+    "deployment_target": "2025-02-XX"
+  },
+  "notes": [
+    "This is the initial memory file - will be migrated to PostgreSQL database",
+    "All memories will be stored permanently once Railway deployment is complete",
+    "Database will enable persistent memory across sessions"
+  ]
+}
